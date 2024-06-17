@@ -10,11 +10,23 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Tasks:
 
+
+ANSWERS/SUBMISSION OF THE ASSIGNMENT1.
+DOCUMENTLINK.. https://docs.google.com/document/d/1PhaidE5nnRCNO20ZVtSPu_SvCrbMUlUy/edit?usp=drivesdk&ouid=102852909053592743112&rtpof=true&sd=true
+
+GITHUB REPOSITORY LINK;  https://github.com/Korgorenn/plpassignment.git
+
+
+
+
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+   
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
+   <video controls src="20240614-1907-44.1507883.mp4" title="Title"></video>
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
@@ -52,3 +64,11 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+ANSWERS/SUBMISSION OF THE ASSIGNMENT1.
+DOCUMENTLINK.. https://docs.google.com/document/d/1PhaidE5nnRCNO20ZVtSPu_SvCrbMUlUy/edit?usp=drivesdk&ouid=102852909053592743112&rtpof=true&sd=true
+
+GITHUB REPOSITORY LINK;  https://github.com/Korgorenn/plpassignment.git
+
+
+
